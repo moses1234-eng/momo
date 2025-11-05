@@ -54,7 +54,7 @@ const Navbar = () => {
 
         <div className="flex items-center gap-4">
           <a
-            href="https://linkedin.com"
+            href="http://linkedin.com/in/moses-joe-a967aa384"
             target="_blank"
             rel="noopener noreferrer"
             className="text-foreground hover:text-primary transition-colors"
@@ -62,7 +62,7 @@ const Navbar = () => {
             <Linkedin className="w-5 h-5" />
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/moses1234-eng"
             target="_blank"
             rel="noopener noreferrer"
             className="text-foreground hover:text-primary transition-colors"
@@ -70,7 +70,7 @@ const Navbar = () => {
             <Github className="w-5 h-5" />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/__bbiee.boi_"
             target="_blank"
             rel="noopener noreferrer"
             className="text-foreground hover:text-primary transition-colors"

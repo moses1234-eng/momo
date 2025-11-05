@@ -44,8 +44,8 @@ const Hero = () => {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold text-foreground">
-            Hi! I'm <span className="bg-gradient-cosmic bg-clip-text text-transparent">Your Name</span>,<br />
-            Web Designer
+            Hi! I'm <span className="bg-gradient-cosmic bg-clip-text text-transparent">Moses</span>,<br />
+            Web Developer
           </h1>
           
           <div className="h-8 text-xl md:text-2xl text-accent font-mono">
@@ -54,7 +54,7 @@ const Hero = () => {
           </div>
           
           <p className="text-lg text-muted-foreground max-w-xl">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+             “I am deeply passionate about Java development and its ecosystem. I enjoy leveraging Java’s robust, platform-independent architecture to build scalable, efficient, and maintainable applications. Over time, I have honed my skills in object-oriented programming, multithreading, and modern frameworks like Spring and Hibernate, which allow me to design high-quality software solutions. I am particularly enthusiastic about staying updated with the latest Java advancements and best practices to continuously improve the software I develop.”
           </p>
           
           <Button className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-[var(--glow-primary)] transition-all">

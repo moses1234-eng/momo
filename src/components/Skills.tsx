@@ -1,12 +1,12 @@
 import { useEffect, useRef, useState } from "react";
-import { Code2, Palette, Smartphone, Database, Cloud, Zap } from "lucide-react";
+import { Code2, Palette, Smartphone, Database, Cloud, Zap, Coffee, Server, Heart } from "lucide-react";
 
 const skills = [
   { name: "Frontend Development", icon: Code2, level: 90 },
-  { name: "UI/UX Design", icon: Palette, level: 85 },
-  { name: "Responsive Design", icon: Smartphone, level: 95 },
+  { name: "Java Programming", icon: Coffee, level: 85 },
+  { name: "Backend Development", icon: Server, level: 95 },
   { name: "Database Management", icon: Database, level: 80 },
-  { name: "Cloud Services", icon: Cloud, level: 75 },
+  { name: "HTML + CSS", icon: Heart, level: 75 },
   { name: "Performance Optimization", icon: Zap, level: 88 },
 ];
 
